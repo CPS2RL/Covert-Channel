@@ -10,4 +10,6 @@ measure the successful inference of receiving frames ( Q value). We generate Q v
 2. TL and TH are harmonic
 3. Fixed TL and varied TH 
 4. Fixed TH and varied TL
+
+   
 To generate the plot fo reach cases, run **harmonic.py**, **non_harmonic.py**, **T_H_fixed.py**, **T_L_fixed.py**. 
