@@ -10,4 +10,4 @@ measure the successful inference of receiving frames ( Q value). We generate Q v
 2. TL and TH are harmonic
 3. Fixed TL and varied TH 
 4. Fixed TH and varied TL
-![image](https://github.com/CPS2RL/FrameLeaker/assets/71979845/6a1ed0e7-d2fa-4fc0-be11-4b661f82086e)
+To generate the plot fo reach cases, run **harmonic.py**, **non_harmonic.py**, **T_H_fixed.py**, **T_L_fixed.py**. 
