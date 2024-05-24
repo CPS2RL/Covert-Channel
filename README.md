@@ -14,6 +14,6 @@ measure the successful inference of receiving frames ( Q value). We generate Q v
 4. Fixed TH and varied TL
 
    
-To generate the plot fo reach cases, run `python3 harmonic.py/non_harmonic.py/T_H_fixed.py/T_L_fixed.py**. 
+To generate the plot fo reach cases, run `python3 harmonic.py/non_harmonic.py/T_H_fixed.py/T_L_fixed.py`. 
 
 Paper Link: https://monowarhasan.info/papers/FrameLeaker_ISORC_2024.pdf
