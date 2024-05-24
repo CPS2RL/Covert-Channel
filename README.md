@@ -1,4 +1,4 @@
-# Covert-Channel
+# FrameLeaker Implementation
 This study investigates the presence of illicit
 information flows in fixed-priority multiframe real-time systems.
 We identify an algorithmic covert channel (called FrameLeaker)
