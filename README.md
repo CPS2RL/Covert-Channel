@@ -7,7 +7,7 @@ that enables a low-priority task to deduce the execution patterns
 
 
 We propose a metric to
-measure the successful inference of receiving frames ( Q value). We generate Q value for Four Cases by running **Q_value_generation.py**:
+measure the successful inference of receiving frames ( Q value). We generate Q value for Four Cases by running `python3 Q_value_generation.py`:
 1. TL and TH are randomly generated
 2. TL and TH are harmonic
 3. Fixed TL and varied TH 
